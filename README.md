@@ -37,7 +37,7 @@ Abra http://localhost:3000 com seu navegador para ver o resultado.
 ## Screenshots
 
 <div align="center">
-  <img width="50%" src="./public/assets/card.png">
+  <img height="50%" src="./public/assets/card.png">
   <img height="50%" src="./public/assets/thankyou.png">
 </div>
 

@@ -1,4 +1,4 @@
-# Results Summary Component
+# Interactive Rating Component
 
 Este é um projeto [Next.js](https://nextjs.org/) de um Componente de classificação interativa baseado em um desafio do [FrontEnd-Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).
 
